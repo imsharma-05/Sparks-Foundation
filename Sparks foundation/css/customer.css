@@ -1,0 +1,52 @@
+body {
+    background: url("../img/about/Bank2.jpg");
+    
+}
+
+.Spark:hover {
+    color: aliceblue;
+    
+}
+
+.Moneybutton {
+   background-color: #212226;
+    color: #ffff;
+    width: 30%;
+    padding: 4px 5px;
+}
+
+.Moneybutton:hover {
+    
+ background-color: #f4c613;
+   color: #212226;
+
+}
+
+.tablecol {
+    background-color: #212226;
+    color: aliceblue;
+}
+
+.tablecol:hover {
+    color: #f4c613;
+    font-weight: bolder;
+}
+
+.tabheading {
+  background-color: #f4c613;
+    color: #212226;
+}
+
+.tabheading:hover {
+    background-color: #ffff;
+    color: #f4c613;
+}
+
+.container {
+    margin-bottom: 12px;
+}
+
+
+
+
+
